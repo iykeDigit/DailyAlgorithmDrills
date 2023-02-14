@@ -1,0 +1,16 @@
+C:\Users\IKECHUKWU\source\repos\BigONotation\BigONotation\bin\Debug\net5.0\BigONotation.exe
+C:\Users\IKECHUKWU\source\repos\BigONotation\BigONotation\bin\Debug\net5.0\BigONotation.deps.json
+C:\Users\IKECHUKWU\source\repos\BigONotation\BigONotation\bin\Debug\net5.0\BigONotation.runtimeconfig.json
+C:\Users\IKECHUKWU\source\repos\BigONotation\BigONotation\bin\Debug\net5.0\BigONotation.runtimeconfig.dev.json
+C:\Users\IKECHUKWU\source\repos\BigONotation\BigONotation\bin\Debug\net5.0\BigONotation.dll
+C:\Users\IKECHUKWU\source\repos\BigONotation\BigONotation\bin\Debug\net5.0\ref\BigONotation.dll
+C:\Users\IKECHUKWU\source\repos\BigONotation\BigONotation\bin\Debug\net5.0\BigONotation.pdb
+C:\Users\IKECHUKWU\source\repos\BigONotation\BigONotation\obj\Debug\net5.0\BigONotation.csproj.AssemblyReference.cache
+C:\Users\IKECHUKWU\source\repos\BigONotation\BigONotation\obj\Debug\net5.0\BigONotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IKECHUKWU\source\repos\BigONotation\BigONotation\obj\Debug\net5.0\BigONotation.AssemblyInfoInputs.cache
+C:\Users\IKECHUKWU\source\repos\BigONotation\BigONotation\obj\Debug\net5.0\BigONotation.AssemblyInfo.cs
+C:\Users\IKECHUKWU\source\repos\BigONotation\BigONotation\obj\Debug\net5.0\BigONotation.csproj.CoreCompileInputs.cache
+C:\Users\IKECHUKWU\source\repos\BigONotation\BigONotation\obj\Debug\net5.0\BigONotation.dll
+C:\Users\IKECHUKWU\source\repos\BigONotation\BigONotation\obj\Debug\net5.0\ref\BigONotation.dll
+C:\Users\IKECHUKWU\source\repos\BigONotation\BigONotation\obj\Debug\net5.0\BigONotation.pdb
+C:\Users\IKECHUKWU\source\repos\BigONotation\BigONotation\obj\Debug\net5.0\BigONotation.genruntimeconfig.cache
